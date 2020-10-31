@@ -8,7 +8,7 @@ staging.%s
 staging
 development
 development.%s
-uat
+uat 
 uat.%s
 %s
 beta
